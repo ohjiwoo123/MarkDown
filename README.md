@@ -82,7 +82,7 @@ Click [google](https://google.com)
 구글 하이퍼링크
 ```
 
-Click [google](https://google.com)
+Click [google](https://google.com).  
 https://google.com
 링크를 깔끔하게 숨기고 싶을 때, 쓰면 되겠습니다.
 ## No.6 이미지 업로드하기
@@ -139,10 +139,8 @@ console.log('your message')
 
 ## 10. 줄바꿈
 
-마크다운에서 Enter 하나로 줄바꿈이 되지 않습니다 줄을 바꾸기 위해 <br/>을 쓸수도 있으나
-
+마크다운에서 Enter 하나로 줄바꿈이 되지 않습니다 줄을 바꾸기 위해 `</br>`을 쓸수도 있으나
 라인의 마지막에 공백 두칸 space 두번 하면 줄바꿈이 가능합니다.
-
 문단을 구분하려면 Enter를 두번 누릅니다. 
 
 ## 11. Highlighting
@@ -155,6 +153,11 @@ function fancyAlert(arg) {
 ```
 
 ## 12. TaskLists
+```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
