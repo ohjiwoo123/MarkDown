@@ -93,7 +93,6 @@ https://google.com
 ![image description](https://cdn.steemitimages.com/DQmbL5n9pjYNrgZdGsF8he6FhoKaMX71vaGzcXTuSxoRm7W/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-06-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.55.03.png)
 
 
-스팀잇에서는 이미지 업로드를 쉽게 드래그 앤 드랍으로 가능하다는 거 다 아시죠..?!!
 
 
 ## No.7 테이블 
