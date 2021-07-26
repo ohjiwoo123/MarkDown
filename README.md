@@ -143,7 +143,8 @@ console.log('your message')
 라인의 마지막에 공백 두칸 space 두번 하면 줄바꿈이 가능합니다.
 문단을 구분하려면 Enter를 두번 누릅니다. 
 
-## 11. Highlighting
+## 11. Highlighting<br>
+-> ₩₩₩(맥북의 경우 tap누르고)하면 코드블럭이 생기는데, ₩₩₩python ₩₩₩javascript이런식으로 하면 highlighting된다.
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
