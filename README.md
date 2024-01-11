@@ -153,7 +153,7 @@ function fancyAlert(arg) {
 }
 ```
 
-## 12. TaskLists
+## 12. 체크박스 TaskLists
 ```
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
